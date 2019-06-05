@@ -1,6 +1,6 @@
 # README for PyDeepSEA
 
-DanQ is a hybrid convolutional and recurrent neural network model for predicting the function of DNA de novo from sequence. This implements by PyTorch again.
+DeepSEA is a deep learning-based algorithmic framework for predicting the chromatin effects of sequence alterations with single nucleotide sensitivity. This implements by PyTorch again.
 
 # Citing DeepSEA
 
